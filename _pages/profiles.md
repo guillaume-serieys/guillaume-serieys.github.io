@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>725-C1</p>
       <p>45 rue des Saints-Pères</p>
-      <p>Paris, 75006</p>
+      <p>75006 Paris, France</p>
   - align: left
     image: photo_cv_serieys.jpg
     content: about_einstein.md
