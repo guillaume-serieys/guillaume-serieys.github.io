@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: photo_cv_serieys.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>725-C1</p>
     <p>45 rue des Saints-Pères</p>
