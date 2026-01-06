@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in mathematics at [MAP5 (Université Paris Cité)](https://map5.mi.parisdescartes.fr/) under the supervision of [Joan Alexis Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/). 
+I am a Ph.D. student in mathematics at [MAP5](https://map5.mi.parisdescartes.fr/) (Université Paris Cité) under the supervision of [Joan Alexis Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/). 
 
 My current work focuses on the study of the metric geometry of nonlinear Lebesgue spaces as well as the construction of metrics that account for the action of diffeomorphism groups on these spaces, with applications in medical image analysis.
