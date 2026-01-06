@@ -1,15 +1,25 @@
-<div class="contact-icons">
-    {% if site.scholar_userid %}
-        <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}&sortby=pubdate"
-           title="Google Scholar">
-            <i class="ai ai-google-scholar"></i> Google Scholar
+ <div>
+        <strong>Contact:</strong>
+        &emsp;
+        {{ site.email }}
+        <br>
+        <strong>Follow:</strong>
+        &emsp;&ensp;
+        <a class="contact-icons">
+            {%- if site.scholar_userid -%}<a
+                href="https://scholar.google.com/citations?user={{ site.scholar_userid }}&sortby=pubdate"
+                title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>{% endif %}
+            &emsp;
+            {%- if site.slides_username -%}<a
+                href="https://slides.com/theodumont"
+                title="slides.com"><i class="fa-regular fa-file-image"></i> slides.com</a>{% endif %}
+            &emsp;
+            {%- if site.github_username -%}<a href="https://github.com/{{ site.github_username }}" title="GitHub"><i
+                    class="fab fa-github"></i> {{ site.github_username }}</a>{% endif %}
+            <!-- &emsp; -->
+            <!-- {%- if site.bluesky_username -%}<a href="https://bsky.app/profile/{{ site.bluesky_username }}.bsky.social" title="Bluesky"><i class="fa-solid fa-dove"></i> {{ site.bluesky_username }}</a>{% endif %} -->
+            &emsp;
+            {%- if site.linkedin_username -%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"
+                title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a>{% endif %}
         </a>
-    {% endif %}
-    &emsp;
-
-    {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-            <i class="fab fa-linkedin"></i> LinkedIn
-        </a>
-    {% endif %}
-</div>
+    </div>
