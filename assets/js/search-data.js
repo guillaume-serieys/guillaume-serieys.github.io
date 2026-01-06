@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-dense-subspaces-completeness-and-separability-co-authored-with-alain-trouvé-is-now-available-online",
+          title: 'A preprint of Nonlinear Lebesgue spaces: Dense subspaces, completeness and separability, co-authored with...',
           description: "",
           section: "News",},{
       id: 'light-theme',
