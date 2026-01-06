@@ -1,6 +1,6 @@
 ---
-layout: projects
-permalink: /teaching/
+layout: cv
+permalink: /cv/
 title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
