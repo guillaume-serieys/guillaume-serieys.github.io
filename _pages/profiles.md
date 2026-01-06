@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>725-C1</p>
+      <p>45 rue des Saints-Pères</p>
+      <p>Paris, 75006</p>
   - align: left
     image: photo_cv_serieys.jpg
     content: about_einstein.md
