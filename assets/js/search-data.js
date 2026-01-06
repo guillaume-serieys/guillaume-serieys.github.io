@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/cv/";
           },
         },{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-dense-subspaces-completeness-and-separability-co-authored-with-alain-trouvé-is-now-available-online",
           title: 'A preprint of Nonlinear Lebesgue spaces: Dense subspaces, completeness and separability, co-authored with...',
