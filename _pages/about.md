@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<meta name="google-site-verification" content="m-ObcgwvDGci13qVMrIbVVEDoC77-rWILcyT1jnglWU" />
+
 I am a PhD student and temporary teaching and research assistant (ATER) in mathematics at [MAP5](https://map5.mi.parisdescartes.fr/) (Université Paris Cité) under the supervision of [Joan Alexis Glaunès](https://helios2.mi.parisdescartes.fr/~glaunes/). 
 
 My current work focuses on the study of geometric and analytic properties of nonlinear Lebesgue spaces as well as the construction of metrics that account for the action of diffeomorphism groups on these spaces, with applications in shape analysis for medical images.
