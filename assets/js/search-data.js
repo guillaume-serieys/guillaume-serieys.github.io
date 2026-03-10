@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-dense-subspaces-completeness-and-separability-co-authored-with-alain-trouvé-is-now-available-online",
           title: 'A preprint of Nonlinear Lebesgue spaces: Dense subspaces, completeness and separability, co-authored with...',
           description: "",
+          section: "News",},{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-curves-and-geometry-is-now-available-online",
+          title: 'A preprint of Nonlinear Lebesgue spaces: Curves and geometry is now available online....',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
