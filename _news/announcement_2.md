@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A preprint of [Nonlinear Lebesgue spaces: Curves and geometry](https://arxiv.org/pdf/2512.19208](https://hal.science/hal-05544460) is now available online.
+A preprint of [Nonlinear Lebesgue spaces: Curves and geometry](https://hal.science/hal-05544460) is now available online.
