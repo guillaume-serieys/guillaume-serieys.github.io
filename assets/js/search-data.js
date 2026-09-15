@@ -16,12 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "news-announcement-1",
-          title: 'Announcement_1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-curves-and-geometry-is-now-available-online",
+        },{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-curves-and-geometry-is-now-available-online",
           title: 'A preprint of Nonlinear Lebesgue spaces: Curves and geometry is now available online....',
           description: "",
           section: "News",},{id: "news-the-paper-nonlinear-lebesgue-spaces-dense-subspaces-completeness-and-separability-co-authored-with-alain-trouvé-is-now-published-online-in-the-journal-of-mathematical-analysis-and-applications",
