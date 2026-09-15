@@ -22,6 +22,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-preprint-of-nonlinear-lebesgue-spaces-curves-and-geometry-is-now-available-online",
           title: 'A preprint of Nonlinear Lebesgue spaces: Curves and geometry is now available online....',
           description: "",
+          section: "News",},{id: "news-the-paper-nonlinear-lebesgue-spaces-dense-subspaces-completeness-and-separability-co-authored-with-alain-trouvé-is-now-published-online-in-the-journal-of-mathematical-analysis-and-applications",
+          title: 'The paper Nonlinear Lebesgue spaces: Dense subspaces, completeness and separability, co-authored with Alain...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
